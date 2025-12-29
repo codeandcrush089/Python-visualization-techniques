@@ -30,7 +30,7 @@ plt.ylabel("Active Users")
 plt.show()
 ```
 ## output
-<img width="707" height="393" alt="image" src="https://github.com/user-attachments/assets/9ecfacf0-fed1-4d71-b8fe-9b9921ffd322" />
+![Timeline Visualization](https://github.com/codeandcrush089/Python-visualization-techniques/blob/main/img/Annotated%20Timelines%20That%20Speak%20for%20Themselves.png?raw=true)
 
 ---
 
@@ -57,7 +57,7 @@ plt.suptitle("Performance Improvement Comparison")
 plt.show()
 ```
 ## output
-<img width="667" height="391" alt="image" src="https://github.com/user-attachments/assets/1b4092e8-e9f2-4c5e-8adb-e72d013dfa08" />
+![Before vs After Split Charts](https://github.com/codeandcrush089/Python-visualization-techniques/blob/main/img/Before%20vs%20After%20Split%20Charts.png?raw=true)
 
 ---
 
@@ -83,7 +83,7 @@ plt.ylabel("Value")
 plt.show()
 ```
 ## output
-<img width="686" height="393" alt="image" src="https://github.com/user-attachments/assets/b8cc7d46-5738-44b6-8dc9-8aba5516d113" />
+![Highlight Outlier](https://github.com/codeandcrush089/Python-visualization-techniques/blob/main/img/Highlight%20the%20Outlier%2C%20Fade%20the%20Rest.png?raw=true)
 
 ---
 
@@ -107,7 +107,7 @@ plt.title("Progressive Data Reveal")
 plt.show()
 ```
 ## output
-<img width="543" height="413" alt="image" src="https://github.com/user-attachments/assets/9ba5ab94-102b-4b83-8fe3-d90a032d723f" />
+![Progressive Reveal](https://github.com/codeandcrush089/Python-visualization-techniques/blob/main/img/Progressive%20Reveal%20(Frame%20by%20Frame).png?raw=true)
 
 ---
 
@@ -138,7 +138,7 @@ plt.suptitle("Sales Comparison Using Small Multiples")
 plt.show()
 ```
 ## output
-<img width="667" height="391" alt="image" src="https://github.com/user-attachments/assets/f74254d5-9761-4284-a143-723284020f0f" />
+![Small Multiples](https://github.com/codeandcrush089/Python-visualization-techniques/blob/main/img/Small%20Multiples%20Over%20One%20Big%20Chart.png?raw=true)
 
 ---
 
@@ -161,7 +161,7 @@ plt.title("Sales vs Target Threshold")
 plt.show()
 ```
 ## output
-<img width="552" height="435" alt="image" src="https://github.com/user-attachments/assets/57eaeb61-2d5b-49a0-ab75-984d1e334428" />
+![Threshold Lines](https://github.com/codeandcrush089/Python-visualization-techniques/blob/main/img/Threshold%20Lines%20With%20Meaning.png?raw=true)
 
 ---
 
@@ -187,7 +187,7 @@ for _ in range(5):
 plt.show()
 ```
 ## output
-<img width="535" height="413" alt="image" src="https://github.com/user-attachments/assets/c78f737c-eab5-4f28-85de-4a3fc31abb0b" />
+![Ranking Animations](https://github.com/codeandcrush089/Python-visualization-techniques/blob/main/img/Ranking%20Animations%20Instead%20of%20Static%20Bars.png?raw=true)
 
 ---
 
@@ -208,7 +208,7 @@ plt.title("Insight Highlighted With Purposeful Color")
 plt.show()
 ```
 ## output
-<img width="552" height="435" alt="image" src="https://github.com/user-attachments/assets/eb2b113d-3083-4355-a6cd-80e83e2df808" />
+![Color With Purpose](https://github.com/codeandcrush089/Python-visualization-techniques/blob/main/img/Color%20With%20Purpose%2C%20Not%20Decoration.png?raw=true)
 
 ---
 
@@ -228,7 +228,7 @@ plt.ylabel("Revenue")
 plt.show()
 ```
 ## output
-<img width="571" height="435" alt="image" src="https://github.com/user-attachments/assets/6f3da046-50bd-45ea-8990-1b6a35225f65" />
+![Narrative Titles](https://github.com/codeandcrush089/Python-visualization-techniques/blob/main/img/Narrative%20Titles%2C%20Not%20Descriptive%20Ones.png?raw=true)
 
 ---
 
@@ -248,7 +248,7 @@ plt.title("Zoomed View Reveals Small but Important Change")
 plt.show()
 ```
 ## output
-<img width="552" height="435" alt="image" src="https://github.com/user-attachments/assets/da68f6e6-d828-48cb-9b58-d2e6545af8b1" />
+![Zoomed-In Views](https://github.com/codeandcrush089/Python-visualization-techniques/blob/main/img/Zoomed-In%20Views%20for%20Critical%20Ranges.png?raw=true)
 
 ---
 
@@ -298,7 +298,7 @@ plt.grid(True, linestyle='--', alpha=0.6)
 plt.show()
 ```
 ## output
-<img width="686" height="470" alt="image" src="https://github.com/user-attachments/assets/9e94aace-5d7c-4668-977a-dfa6e314db87" />
+![Tooltips That Explain](https://github.com/codeandcrush089/Python-visualization-techniques/blob/main/img/Tooltips%20That%20Explain%2C%20Not%20Repeat.png?raw=true)
 
 ---
 
@@ -324,11 +324,7 @@ plt.title("Clear Takeaway Added")
 plt.show()
 ```
 ## output
-<img width="543" height="435" alt="image" src="https://github.com/user-attachments/assets/0789eb30-f258-4f7f-803a-5dc8963ad693" />
-
----
-Here’s a **clean, professional “Final Words” section** you can put at the **end of your README.md**.
-It’s short, polished, and GitHub-friendly — perfect since **all charts are already shown in one README file**.
+![Takeaway Label](https://github.com/codeandcrush089/Python-visualization-techniques/blob/main/img/End%20With%20a%20Takeaway%20Label.png?raw=true)
 
 ---
 
